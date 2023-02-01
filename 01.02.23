@@ -1,0 +1,26 @@
+#include <iostream>
+using namespace std;
+//int main()
+//{
+//	int sk1;
+//	cin << sk1;
+//	if(sk1 % 2 == 0) { cout "para" }
+//	else cout << "nepara"
+//}
+int main()
+{
+	int sk1, sk2;
+	cout << "enter 2 numbers" << endl;
+	cin >> sk1 >> sk2;
+
+	if (sk1 > sk2)
+		cout << "sk1 max, sk2 min";
+	else cout << "sk1 min, sk2 max";
+
+	if(sk1 > 0)
+		cout << "sk1 ir pozitivs";
+	else cout << "sk1 ir negativs";
+
+	if(sk2 > 0)
+		cout << "sk2 ir pozitivs";
+	else cout << "sk2 ir negativs";
