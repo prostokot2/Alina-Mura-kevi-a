@@ -1,0 +1,241 @@
+//#include
+
+//using namespace std;
+
+//int main() {
+
+// int sk1, sk2;
+
+//
+
+// cout << "enter two numbers" << endl;
+
+// cin >> sk1 >> sk2;
+
+//
+
+// if (sk1 > sk2)
+
+// cout << " sk1 max, sk2 min;";
+
+// else cout << " sk1 min, sk2 max;";
+
+//
+
+// if (sk1 > 0)
+
+// cout << " sk1 ir pozitivs,";
+
+// else cout << " sk1 ir negativs,";
+
+//
+
+// if (sk2 > 0)
+
+// cout << " sk2 ir pozitivs;";
+
+// else cout << " sk2 ir negativs;";
+
+//
+
+//
+
+// if (sk1 % 2 == 0)
+
+// cout << " sk1 ir para,";
+
+// else cout << " sk1 ir nepara,";
+
+//
+
+//
+
+// if (sk2 % 2 == 0)
+
+// cout << " sk2 ir para;";
+
+// else cout << " sk2 ir nepara;";
+
+//
+
+//
+
+//
+
+//}
+
+//#include
+
+//using namespace std;
+
+//int main() {
+
+// int atzime;
+
+// cout << "enter your procents" << endl;
+
+// cin >> atzime;
+
+// if (atzime >= 90&&atzime<100)
+
+// cout << "your grade is A ";
+
+// if (atzime >= 80&&atzime<90)
+
+// cout << "your grade is B ";
+
+// if (atzime >= 70&&atzime<80)
+
+// cout << "your grade is C ";
+
+// if (atzime >= 60&&atzime<70)
+
+// cout << "your grade is D ";
+
+// if (atzime >= 40&&atzime<60)
+
+// cout << "your grade is E ";
+
+// if (atzime < 40)
+
+// cout << "your grade is F ";
+
+//
+
+//
+
+//}
+
+//#include
+
+//using namespace std;
+
+//int main() {
+
+//
+
+// int sk1, sk2;
+
+// cout << "enter number 1-7" << endl;
+
+// cin >> sk1;
+
+// cout << "enter month 1-12" << endl;
+
+// cin >> sk2;
+
+// if (sk1 == 1)
+
+// cout << "Monday, ";
+
+// if (sk1 == 2)
+
+// cout << "Tuesday, ";
+
+// if (sk1 == 3)
+
+// cout << "Wensday, ";
+
+// if (sk1 == 4)
+
+// cout << "Thursday, ";
+
+// if (sk1 == 5)
+
+// cout << "Friday, ";
+
+// if (sk1 == 6)
+
+// cout << "Satrday, ";
+
+// if (sk1 == 7)
+
+// cout << "Sunday, ";
+
+//
+
+// if (sk2 == 1)
+
+// cout << "January";
+
+// if (sk2 == 2)
+
+// cout << "February";
+
+// if (sk2 == 3)
+
+// cout << "March";
+
+// if (sk2 == 4)
+
+// cout << "April";
+
+// if (sk2 == 5)
+
+// cout << "May";
+
+// if (sk2 == 6)
+
+// cout << "June";
+
+// if (sk2 == 7)
+
+// cout << "July";
+
+// if (sk2 == 8)
+
+// cout << "August";
+
+// if (sk2 == 9)
+
+// cout << "September";
+
+// if (sk2 == 10)
+
+// cout << "October";
+
+// if (sk2 == 11)
+
+// cout << "November";
+
+// if (sk2 == 12)
+
+// cout << "December";
+
+//
+
+//
+
+//
+
+//}
+
+//#include
+//
+//	using namespace std;
+//
+//	int main() {
+//
+//		int mal1,mal2,mal3;
+//
+//		cout << "Enter the first side" << endl;
+//
+//		cin >> mal1;
+//
+//		cout << "Enter the second side" << endl;
+//
+//		cin >> mal2;
+//
+//		cout << "Enter the third side" << endl;
+//
+//		cin >> mal3;
+//
+//		if(mal1 == mal2 == mal3)
+//
+//			cout << "Trijsturis ir vienadmalu";
+//
+//		if(mal1 == mal2 or mal2 == mal3 or mal3==mal1)
+//
+//			cout << "Trijsturis ir vienadsanu";
+//
+//	}
